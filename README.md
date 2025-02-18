@@ -1,0 +1,1 @@
+# JS-Business-name-generator
